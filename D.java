@@ -15,4 +15,8 @@ public class D {
     public boolean MD2(){
         return D2;
     }
+
+    public void MD3(){
+        System.out.println("MD3");
+    }
 }
