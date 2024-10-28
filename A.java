@@ -12,6 +12,14 @@ public class A {
         return A2;
     }
 
+    public void setA1(int A1){
+        this.A1 = A1;
+    }
+
+    public void setA2(float A2){
+        this.A2 = A2;
+    }
+    
     public void MA1(){
         System.out.print(getA1());
     }
